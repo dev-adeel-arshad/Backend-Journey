@@ -1,0 +1,48 @@
+Time Of request is:1755926232566
+ url of request is :"/".
+Time Of request is:1755926232640
+ url of request is :"/favicon.ico".
+Time Of request is:1755926233320
+ url of request is :"/".
+Time Of request is:1755926233411
+ url of request is :"/favicon.ico".
+Time Of request is:1755928865944
+ url of request is :"/".
+Time Of request is:1755928866093
+ url of request is :"/favicon.ico".
+Time Of request is:1755928868211
+ url of request is :"/".
+Time Of request is:1755928868268
+ url of request is :"/favicon.ico".
+Time Of request is:1755928871062
+ url of request is :"/".
+Time Of request is:1755928871120
+ url of request is :"/favicon.ico".
+Time Of request is:1755928873249
+ url of request is :"/".
+Time Of request is:1755928873325
+ url of request is :"/favicon.ico".
+Time Of request is:1755928928415
+ url of request is :"/about".
+Time Of request is:1755928928490
+ url of request is :"/favicon.ico".
+Time Of request is:1755928956644
+ url of request is :"/about/username=nj".
+Time Of request is:1755928956778
+ url of request is :"/favicon.ico".
+Time Of request is:1755932773377
+ url of request is :"/about/username=nj".
+Time Of request is:1755932773459
+ url of request is :"/favicon.ico".
+Time Of request is:1755932834670
+ url of request is :"/about/username=nj".
+Time Of request is:1755932834740
+ url of request is :"/favicon.ico".
+Time Of request is:1755932871762
+ url of request is :"/about".
+Time Of request is:1755932871997
+ url of request is :"/favicon.ico".
+Time Of request is:1755932879517
+ url of request is :"/".
+Time Of request is:1755932879644
+ url of request is :"/favicon.ico".
